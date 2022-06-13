@@ -1,0 +1,28 @@
+{
+  "modules": {
+    "01 CSS": {
+      "lectures": [
+        {
+          "id": "0101",
+          "title": "css"
+        }
+      ]
+    },
+    "02 JavaScript Fundamentos": {
+      "lectures": [
+        {
+          "id": "0201",
+          "title": "O JavaScript"
+        },
+        {
+          "id": "0202",
+          "title": "Primeiros Passos"
+        },
+        {
+          "id": "0203",
+          "title": "Visão Geral"
+        }
+      ]
+    }
+  }
+}
